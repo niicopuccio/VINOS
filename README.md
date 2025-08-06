@@ -1,4 +1,4 @@
-🧪# Proyecto Final - Data Science I
+# 🧪 Proyecto Final - Data Science I
 
 ## Título:
 **Predicción del Ranking de Vinos**
