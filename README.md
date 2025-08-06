@@ -18,10 +18,15 @@ El objetivo de este proyecto es aplicar técnicas de selección de variables, en
 
 ## Metodología
 
-1.   - Modelos utilizados:
+1. **Carga y exploración del dataset**
+2. **Preprocesamiento de los datos**
+   - Eliminación de nulos
+   - Codificación de variables categóricas
+3. **Entrenamiento del modelo**
+   - Modelos utilizados:
      - `Random Forest Regressor`
-2. **Evaluación**
-   - Análisis de importancia de variables
+4. **Evaluación**
+    - Análisis de importancia de variables
 
 ---
 
