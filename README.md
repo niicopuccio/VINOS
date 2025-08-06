@@ -20,7 +20,6 @@ El objetivo de este proyecto es aplicar técnicas de selección de variables, en
 
 1.   - Modelos utilizados:
      - `Random Forest Regressor`
-     - `Gradient Boosting Regressor`
 2. **Evaluación**
    - Análisis de importancia de variables
 
