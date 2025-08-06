@@ -33,7 +33,7 @@ El objetivo de este proyecto es aplicar técnicas de selección de variables, en
 ## Resultados
 
 - El modelo `Random Forest` muestra un buen desempeño para calcular las variables con mayor importancia para calcular la predicción del ranking.
-- Se encontró que el PRECIO del vino es la variable más influyente en la predicción.
+- Se encontró que el PRECIO del vino es la variable más influyente.
 - Otras variables como AÑO, VARIEDAD o PROVINCIA tuvieron menor peso en este conjunto de datos.
 
 ---
@@ -42,11 +42,11 @@ El objetivo de este proyecto es aplicar técnicas de selección de variables, en
 
 - Pandas
 - NumPy
-- sklearn
+- Sklearn
 - Matplotlib
 
 ---
 
 ## Conclusiones
 
-El precio resultó ser la principal variable. Para mejorar el modelo, se podrían aplicar EL uso de modelos más avanzados como XGBoost.
+El precio resultó ser la principal variable la predicción del ranking. Para mejorar el modelo, se podrían aplicar eL uso de modelos más avanzados como XGBoost.
